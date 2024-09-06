@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "8IWXNns2uIBPSrInyTjjRiXT1fsBoyfs2rgGgUA1PVs=",
+  "Source": "JwtAuthTest",
+  "BasePath": "_content/JwtAuthTest",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/JwtAuthTest.props" />
+</Project>
